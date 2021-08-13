@@ -1,4 +1,4 @@
-name: Hyelim Readme
+name: Waka Readme
 
 on:
   schedule:
@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: hyelimchoi1223/hyelimchoi1223@main
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
