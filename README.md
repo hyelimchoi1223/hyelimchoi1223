@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
  
 ### About Me 😄 
-<!-- 🔭 I’m currently working on ...-->
+<!-- 🔭 I’m currently working on ...--> 
 - 🌱 I’m currently learning AI, ML.
 <!-- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
