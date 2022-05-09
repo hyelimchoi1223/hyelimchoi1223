@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyelimchoi1223.github.io/)](https://hyelimchoi1223.github.io/)  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/PostList.naver?blogId=chtr23)](https://blog.naver.com/PostList.naver?blogId=chtr23)  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hlchoi1223@gmail.com)](mailto:hlchoi1223@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-F08080?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/hye_lim_1223)](https://www.instagram.com/hye_lim_1223/)
   
