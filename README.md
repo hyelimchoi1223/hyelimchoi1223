@@ -60,7 +60,6 @@ Interested in AI systems, distributed architecture, and observability
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/Google_Cloud-black?style=flat-square&logo=google-cloud"/>
 </p>
 
 
