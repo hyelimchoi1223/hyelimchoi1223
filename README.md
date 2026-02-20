@@ -30,15 +30,6 @@ Interested in AI systems, distributed architecture, and observability
 
 ---
 
-## 🌱 Currently Learning
-
-- System Design & Software Architecture  
-- Distributed Systems  
-- AI / ML Systems  
-- Infrastructure & Observability  
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
